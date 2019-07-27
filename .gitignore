@@ -1,0 +1,6 @@
+# Do not track these folders as they are for virtual environment for my pc
+# However the dependencies can be exported using "./bin/pip freeze > requirements.txt"
+
+bin/
+include/
+lib/
