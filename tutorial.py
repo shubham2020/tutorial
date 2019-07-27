@@ -8,4 +8,4 @@ def print_song(input_is):
 
 if __name__=='__main__':
     hello()
-    print("Shubham Pathak")
+    print_song("Shubham Pathak")
